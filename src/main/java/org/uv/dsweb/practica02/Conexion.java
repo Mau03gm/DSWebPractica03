@@ -4,10 +4,7 @@
  */
 package org.uv.dsweb.practica02;
 
-/**
- *
- * @author Sebastian
- */
+
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;

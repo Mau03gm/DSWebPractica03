@@ -4,10 +4,7 @@
  */
 package org.uv.dsweb.practica02;
 
-/**
- *
- * @author Sebastian
- */
+
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
