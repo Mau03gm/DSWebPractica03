@@ -4,10 +4,6 @@
  */
 package org.uv.dsweb.practica02;
 
-/**
- *
- * @author Sebastian
- */
 public class Usuario {
     private long clave;
     private String nombre;

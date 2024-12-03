@@ -4,10 +4,7 @@
  */
 package org.uv.dsweb.practica02;
 
-/**
- *
- * @author Sebastian
- */
+
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
